@@ -293,13 +293,14 @@ html,body {
 }
 .list_box ul li .eighth_des .eighth_img2,.list_box ul li .eighth_des .eighth_img3{
     width: 3.14rem;
-    height: 2.3rem;
-    background: url("../images/xhdpi/yingshi_a.png") no-repeat;
+    height: 2.26rem;
+    background: url("../images/xhdpi/a_yingshi.png") no-repeat;
     -webkit-background-size: contain;
     background-size: contain;
 }
 .list_box ul li .eighth_des .eighth_img3{
-    background-image: url(../images/xhdpi/yingshi.png);
+    margin-top: 0.06rem;
+    background-image: url(../images/xhdpi/b_yingshi.png);
 }
 .list_box ul li .eighth_des .eighth_img4{
     width: 7.28rem;
@@ -391,16 +392,19 @@ html,body {
         background-image: url(../images/xxxhdpi/yewen.png);
     }
     .list_box ul li .eighth_des .eighth_img2{
-        background-image: url(../images/xxxhdpi/yingshi_a.png);
+        background-image: url(../images/xxxhdpi/a_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img3{
-        background-image: url(../images/xxxhdpi/yingshi.png);
+        background-image: url(../images/xxxhdpi/b_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img4{
         background-image: url(../images/xxxhdpi/lingyuzhanshi.png);
     }
     .list_box ul li .ninth_img {
         background-image: url(../images/xxxhdpi/pinpai.png);
+    }
+    .list_box ul li .tenth_bg .logo_bg .tenth_logo {
+        background-image: url(../images/xxxhdpi/logo.png);
     }
 }
 /*xxhdpi*/
@@ -436,16 +440,19 @@ html,body {
         background-image: url(../images/xxhdpi/yewen.png);
     }
     .list_box ul li .eighth_des .eighth_img2{
-        background-image: url(../images/xxhdpi/yingshi_a.png);
+        background-image: url(../images/xxhdpi/a_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img3{
-        background-image: url(../images/xxhdpi/yingshi.png);
+        background-image: url(../images/xxhdpi/b_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img4{
         background-image: url(../images/xxhdpi/lingyuzhanshi.png);
     }
     .list_box ul li .ninth_img {
         background-image: url(../images/xxhdpi/pinpai.png);
+    }
+    .list_box ul li .tenth_bg .logo_bg .tenth_logo {
+        background-image: url(../images/xxhdpi/logo.png);
     }
 }
 /*xhdpi*/
@@ -481,16 +488,19 @@ html,body {
         background-image: url(../images/xhdpi/yewen.png);
     }
     .list_box ul li .eighth_des .eighth_img2{
-        background-image: url(../images/xhdpi/yingshi_a.png);
+        background-image: url(../images/xhdpi/a_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img3{
-        background-image: url(../images/xhdpi/yingshi.png);
+        background-image: url(../images/xhdpi/b_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img4{
         background-image: url(../images/xhdpi/lingyuzhanshi.png);
     }
     .list_box ul li .ninth_img {
         background-image: url(../images/xhdpi/pinpai.png);
+    }
+    .list_box ul li .tenth_bg .logo_bg .tenth_logo {
+        background-image: url(../images/xhdpi/logo.png);
     }
 }
 /*hdpi*/
@@ -526,16 +536,19 @@ html,body {
         background-image: url(../images/hdpi/yewen.png);
     }
     .list_box ul li .eighth_des .eighth_img2{
-        background-image: url(../images/hdpi/yingshi_a.png);
+        background-image: url(../images/hdpi/a_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img3{
-        background-image: url(../images/hdpi/yingshi.png);
+        background-image: url(../images/hdpi/b_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img4{
         background-image: url(../images/hdpi/lingyuzhanshi.png);
     }
     .list_box ul li .ninth_img {
         background-image: url(../images/hdpi/pinpai.png);
+    }
+    .list_box ul li .tenth_bg .logo_bg .tenth_logo {
+        background-image: url(../images/hdpi/logo.png);
     }
 }
 /*mdpi*/
@@ -571,15 +584,18 @@ html,body {
         background-image: url(../images/mdpi/yewen.png);
     }
     .list_box ul li .eighth_des .eighth_img2{
-        background-image: url(../images/mdpi/yingshi_a.png);
+        background-image: url(../images/mdpi/a_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img3{
-        background-image: url(../images/mdpi/yingshi.png);
+        background-image: url(../images/mdpi/b_yingshi.png);
     }
     .list_box ul li .eighth_des .eighth_img4{
         background-image: url(../images/mdpi/lingyuzhanshi.png);
     }
     .list_box ul li .ninth_img {
         background-image: url(../images/mdpi/pinpai.png);
+    }
+    .list_box ul li .tenth_bg .logo_bg .tenth_logo {
+        background-image: url(../images/mdpi/logo.png);
     }
 }
