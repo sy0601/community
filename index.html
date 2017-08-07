@@ -249,11 +249,11 @@
 <script src="js/swiper.jquery.min.js"></script>
 <script src="js/swiper.animate.min.js"></script>
 <script>
-    $(function(){
+    window.onload = function(){
         var mySwiper = new Swiper ('.swiper-container', {
             onInit: function(swiper){
                 /*swiperAnimateCache(swiper);
-                swiperAnimate(swiper);*/
+                 swiperAnimate(swiper);*/
                 setTimeout(function(){
                     swiperAnimateCache(swiper);
                     swiperAnimate(swiper);
@@ -328,6 +328,6 @@
         setTimeout(function(){
             dz(str5);
         },58000);
-    })
+    };
 </script>
 </html>
